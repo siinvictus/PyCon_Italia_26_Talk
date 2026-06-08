@@ -7,8 +7,10 @@ Talk materials and interactive code examples from PyCon Italia 2026. It was inte
 The talk argues that doing stuff with data is more than just ML — graph theory is a powerful mathematical tool that is underrepresented in the Python/data science community, and this talk is a small step toward changing that.
 
 #### Contents
-slides/          ← talk slides (PDF)
+slides/          ← talk slides (PDF) 
+
 examples/
+
 └── graphth101.py  ← interactive marimo notebook with all code examples
 
 #### Topics Covered
