@@ -6,7 +6,7 @@
 Talk materials and interactive code examples from PyCon Italia 2026. It was intended for an audience of total beginners.
 The talk argues that doing stuff with data is more than just ML and that graph theory is a powerful mathematical tool that is underrepresented in the Python/data science community, and this talk is a small step toward changing that.
 
-The talk can be found here:https://www.youtube.com/live/_bEd1oytEt8?si=P0HZ7JlJmKjnPQ8d [starting at <b> 1:56:00 </b>]
+The talk can be found here:https://www.youtube.com/live/_bEd1oytEt8?si=P0HZ7JlJmKjnPQ8d [starting at <b> 1 hour:56 minutes </b>]
 
 #### Contents
 slides/          ← talk slides (PDF) 
